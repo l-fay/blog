@@ -1,9 +1,9 @@
 ---
 title: NexT 8.0.0版本修改代码块背景
-date: 2020-09-03 14:08:47
-tags: [hexo]
+date: 2020-08-03 14:08:47
+tags: [Hexo]
 categories: 
-  - [hexo]
+  - [Hexo]
 ---
 NexT 8.0.0版本中，加入了很多代码块主题
 

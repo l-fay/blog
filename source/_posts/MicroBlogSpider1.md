@@ -1,6 +1,6 @@
 ---
 title: 爬取微博数据
-date: 2020-09-21 14:42:19
+date: 2020-08-21 14:42:19
 tags: [Python, 爬虫]
 categories: 
   - [爬虫, Python, 微博]
@@ -17,6 +17,6 @@ categories:
 
 如果数据量比较大的话，需要使用代理，可以看下这篇文章：
 
-[proxy_pool](https://l-fay.github.io/2020/09/08/proxy_pool/)
+{% post_link proxy_pool1 开源项目proxy_pool %}
 
 我使用的是requests + beautifulsoup + openpyxl的组合，将数据存入excel表格。

@@ -1,9 +1,9 @@
 ---
 title: "RuntimeError: No such operator torchvision::nms"
 date: 2020-09-09 19:47:19
-tags: [报错, python, pytorch, torchvision]
+tags: [报错, Python, PyTorch, TorchVision]
 categories: 
-  - [python, pytorch, 报错, RuntimeError]
+  - [Python, PyTorch, 报错, RuntimeError]
 ---
 今天遇到了如题目所示的问题
 

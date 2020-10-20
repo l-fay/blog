@@ -1,9 +1,9 @@
 ---
 title: 我就想试试怎么写博客
-date: 2020-09-01 16:42:24
-tags: [hexo]
+date: 2020-08-01 16:42:24
+tags: [Hexo]
 categories: 
-  - [hexo]
+  - [Hexo]
 ---
 写这个的目的就是试一试hexo的各种语法，免得以后忘记。
 
@@ -77,9 +77,15 @@ alert('Hello World!');
 |:-----|:-----:|-----:|
 | 示例 | 示例 | 示例 |
 
+### 超链接
+
+[官方文档](https://hexo.io/docs/writing.html)
+
+{% post_link hexo1 站内跳转 %}
+
 ### 图片
 
-<img src="/images/avatar1.jpg">
+<img src="/images/avatar1.jpg" width="60%">
 
 ## 注意事项
 

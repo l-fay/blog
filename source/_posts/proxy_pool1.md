@@ -1,5 +1,5 @@
 ---
-title: proxy_pool
+title: 开源项目proxy_pool
 date: 2020-09-08 13:24:27
 tags: [开源项目, 代理, Python, 爬虫]
 categories: 
