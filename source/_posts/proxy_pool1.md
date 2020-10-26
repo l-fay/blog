@@ -3,8 +3,8 @@ title: 开源项目proxy_pool
 date: 2020-09-08 13:24:27
 tags: [开源项目, 代理, Python, 爬虫]
 categories: 
-  - [Python, 开源项目, proxy_pool]
-  - [爬虫, Python, 代理, proxy_pool]
+  - [开源项目, Python]
+  - [爬虫, 代理, Python]
 ---
 这是一个自动收集网络免费代理的项目
 
@@ -17,7 +17,7 @@ categories:
 # 项目依赖
 
 - Python3.7
-- Redis
+- {% post_link redis1 Redis %}
 
 
 # 配置和使用
