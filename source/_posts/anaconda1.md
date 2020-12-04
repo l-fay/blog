@@ -1,5 +1,5 @@
 ---
-title: anaconda1
+title: pip换源的注意事项
 date: 2020-11-27 18:15:46
 tags: [Anaconda]
 categories: 
