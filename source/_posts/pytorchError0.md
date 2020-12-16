@@ -3,7 +3,7 @@ title: "RuntimeError: No such operator torchvision::nms"
 date: 2020-09-09 19:47:19
 tags: [报错, Python, PyTorch, TorchVision]
 categories: 
-  - [Python, PyTorch, 报错, RuntimeError]
+  - [Python, PyTorch, 报错]
 ---
 今天遇到了如题目所示的问题
 
