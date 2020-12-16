@@ -17,6 +17,6 @@ categories:
 
 如果数据量比较大的话，需要使用代理，可以看下这篇文章：
 
-{% post_link proxy_pool1 开源项目proxy_pool %}
+{% post_link proxy_pool0 开源项目proxy_pool %}
 
 我使用的是requests + beautifulsoup + openpyxl的组合，将数据存入excel表格。

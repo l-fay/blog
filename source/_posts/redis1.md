@@ -1,40 +1,29 @@
 ---
-title: Redis的安装
-date: 2020-10-26 18:03:13
+title: Redis的配置
+date: 2020-10-26 18:21:17
 tags: [数据库, Redis]
 categories: 
   - [数据库, Redis]
 ---
-因为项目需要，要重装一下Redis。
+一些相关的配置。
 
 <!-- more -->
 
+既然要配置，首先找一下安装目录在哪：
 ```
-环境：
-Ubuntu 16.04
-```
-
-首先查看用APT安装的Redis相关软件：
-```
-dpkg -l | grep redis
-```
-```
-ii  redis-server                                2:3.0.6-1ubuntu0.4                              amd64        Persistent key-value database with network interface
-ii  redis-tools                                 2:3.0.6-1ubuntu0.4                              amd64        Persistent key-value database with network interface (client)
+whereis redis
 ```
 
-卸载：
 ```
-apt-get --purge remove redis-server
-apt-get --purge remove redis-tools
+redis: /etc/redis
 ```
 
-重新安装：
+在这个文件夹下，有一个redis.conf，这就是配置文件了。
+
 ```
-apt-get install redis-server
+vim redis.conf
 ```
 
-启动：
-```
-redis-server
-```
+主要查看`port`和`bind`，分别是端口和绑定的ip。
+
+一般默认port是6379，bind是127.0.0.1。
