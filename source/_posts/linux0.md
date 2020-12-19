@@ -33,19 +33,19 @@ categories:
 
 制作流程如下：
 
-<img src="/images/linux1/img1.png" width="60%">
+<img src="/images/linux0/img1.png" width="60%">
 
-<img src="/images/linux1/img2.png" width="60%">
+<img src="/images/linux0/img2.png" width="60%">
 
-<img src="/images/linux1/img3.png" width="60%">
+<img src="/images/linux0/img3.png" width="60%">
 
-<img src="/images/linux1/img4.png" width="60%">
+<img src="/images/linux0/img4.png" width="60%">
 
-<img src="/images/linux1/img5.png" width="60%">
+<img src="/images/linux0/img5.png" width="60%">
 
-<img src="/images/linux1/img6.png" width="60%">
+<img src="/images/linux0/img6.png" width="60%">
 
-<img src="/images/linux1/img7.png" width="60%">
+<img src="/images/linux0/img7.png" width="60%">
 
 制作完成后，显示刻录成功，就OK了。
 
@@ -61,13 +61,13 @@ categories:
 
 如果机器没有操作系统，跟着引导，一直下一步后，那么会看到如下画面，选清除磁盘的选项，英文版的也一样，自己大致翻译一下。
 
-<img src="/images/linux1/img8.png" width="60%">
+<img src="/images/linux0/img8.png" width="60%">
 
 之后就没有什么需要注意的了，跟着引导走就行。
 
 如果之前电脑上有操作系统，现在想把Windows覆盖掉，只要一个Ubuntu系统的话，跟着引导在下图界面也选清除磁盘就行，英文界面的自己翻译一下。
 
-<img src="/images/linux1/img9.jpg" width="60%">
+<img src="/images/linux0/img9.jpg" width="60%">
 
 ### 双系统
 
@@ -75,7 +75,7 @@ categories:
 
 空出一些未分区的磁盘空间之后，跟着引导在下图界面选择并存，英文界面也是一样的。
 
-<img src="/images/linux1/img9.jpg" width="60%">
+<img src="/images/linux0/img9.jpg" width="60%">
 
 到这就差不多了。
 
