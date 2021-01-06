@@ -25,7 +25,7 @@ categories:
 
 ### 解决方法
 
-将`/etc/skel`下的`.bash*`和`.profile`复制过来并修改权限及拥有者。（未验证是否可以跳过这一步）
+将`/etc/skel`下的`.bash*`和`.profile`复制过来并修改权限及拥有者。（未验证是否可以跳过这一步）。
 
 然后用`sudo vim /etc/passwd`将
 
@@ -33,7 +33,7 @@ categories:
 hello:x:1001:1001::/home/hello:/bin/sh
 ```
 
-改成这样
+改成这样：
 
 ```
 hello:x:1001:1001::/home/hello:/bin/bash
