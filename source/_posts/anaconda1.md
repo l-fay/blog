@@ -1,7 +1,10 @@
 ---
-title: anaconda1
+title: 迁移虚拟环境
 date: 2021-01-07 17:29:44
-tags:
+tags: [Anaconda, Linux]
+categories: 
+  - [Anaconda]
+  - [Linux]
 ---
 
 师兄的一篇博客很有帮助，转载一下。
