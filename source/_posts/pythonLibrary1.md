@@ -1,7 +1,9 @@
 ---
 title: Python路径处理用到的库
 date: 2021-01-06 16:34:21
-tags:
+tags: [Python]
+categories: 
+  - [Python, 常用库]
 ---
 文件路径很多时候不能写死，否则移植的时候会很麻烦，尤其是跨平台的时候。
 

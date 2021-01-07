@@ -52,7 +52,7 @@ $ hexo d
 
 ### 引用网络文章
 
-{% blockquote l-fay https://l-fay.github.io/2020/09/01/hexo1/ 我就想试试怎么写博客 %}
+{% blockquote l-fay https://l-fay.github.io/2020/08/01/hexo0/ 我就想试试怎么写博客 %}
 文章内容
 {% endblockquote %}
 
