@@ -5,7 +5,7 @@ tags: [命令, Linux]
 categories: 
   - [Linux, 命令]
 ---
-因为- {% post_link proxy_pool 这个项目 %}需要长时间运行，所以学习了一下nohup命令。
+因为- {% post_link proxy_pool00 这个项目 %}需要长时间运行，所以学习了一下nohup命令。
 
 <!-- more -->
 

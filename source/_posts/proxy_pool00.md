@@ -17,7 +17,7 @@ categories:
 # 项目依赖
 
 - Python3.7
-- {% post_link redis1 Redis %}
+- {% post_link redis01 Redis %}
 
 
 # 配置和使用

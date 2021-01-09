@@ -15,7 +15,7 @@ categories:
 
 这种情况推荐用Ubuntu自导的驱动更新功能解决。
 
-可以参考我的这篇博客{% post_link linux1 Ubuntu安装驱动及CUDA %}。
+可以参考我的这篇博客{% post_link linux01 Ubuntu安装驱动及CUDA %}。
 
 ## Python代码问题
 

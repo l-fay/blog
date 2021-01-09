@@ -17,7 +17,7 @@ sh文件的安装过程略。
 
 假设你的安装路径是`/data/anaconda3`。
 
-将`/data/anaconda3/bin`加入环境变量，方法在这里{% post_link linux2 Linux系统变量 %}。
+将`/data/anaconda3/bin`加入环境变量，方法在这里{% post_link linux02 Linux系统变量 %}。
 
 ## 修改用户权限
 
