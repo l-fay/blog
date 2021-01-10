@@ -20,3 +20,5 @@ categories:
 {% post_link proxy_pool00 开源项目proxy_pool %}
 
 我使用的是requests + beautifulsoup + openpyxl的组合，将数据存入excel表格。
+
+这是openpyxl库的介绍：{% post_link pythonLibrary03 openpyxl库 %}
