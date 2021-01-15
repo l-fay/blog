@@ -47,11 +47,11 @@ sudo chmod 770 -R /data/anaconda3
 # 假设把用户hello添加进anaconda组
 sudo usermod -a -G anaconda hello
 ```
-或
+
+5、刷新配置文件
 
 ```
-# 创建新用户hello并添加进anaconda组
-sudo adduser -u hello -G anaconda
+source /etc/profile
 ```
 
 OK，完事。

@@ -111,6 +111,6 @@ vim pip
 下面是一个例子。
 <img src="/images/anaconda1/img0.png" width="60%">
 
-——————————————————————————————————————————————————
+——————————————————————————————————————————
 
 转载自[anaconda | 迁移虚拟环境](https://benpaodewoniu.github.io/2020/05/29/anaconda1/)

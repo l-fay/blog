@@ -15,7 +15,7 @@ categories:
 
 其中`-m`参数的作用是自动在/home目录下创建相应的用户文件夹。
 
-使用`psaawd hello`创建密码。
+使用`passwd hello`创建密码。
 
 ## 解决新用户命令行只有一个美元符号的问题
 
