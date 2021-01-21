@@ -14,7 +14,7 @@ categories:
 
 首先创建一个名为`HOME`的系统变量，内容为`%USERPROFILE%`。
 
-然后在自己的用户目录下新建一个文件，命名为`_netrc`（C:\Users\username\_netrc）
+然后在自己的用户目录下新建一个文件，命名为`_netrc`（C:\Users\username\\\_netrc）
 
 编辑为：
 
