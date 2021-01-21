@@ -3,7 +3,7 @@ title: Excel | 用openpyxl库操作Excel表格
 date: 2021-01-10 16:26:55
 tags: [Python, 办公, Office]
 categories: 
-  - [Python, 常用库]
+  - [Python, 常用库, openpyxl]
   - [Office, Excel]
 ---
 首先这个库只支持xlsx格式的文件操作，其他的8行。

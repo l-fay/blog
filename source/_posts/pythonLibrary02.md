@@ -3,7 +3,7 @@ title: mutagen库的一些使用要点
 date: 2021-01-06 21:47:25
 tags: [Python]
 categories: 
-  - [Python, 常用库]
+  - [Python, 常用库, mutagen]
 ---
 先放一个函数。
 

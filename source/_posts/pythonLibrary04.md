@@ -3,7 +3,7 @@ title: re库处理正则表达式
 date: 2021-01-10 17:48:39
 tags: [Python, 正则表达式]
 categories: 
-  - [Python, 常用库]
+  - [Python, 常用库, re]
 ---
 记录一下我用的比较多的re库中的函数。
 

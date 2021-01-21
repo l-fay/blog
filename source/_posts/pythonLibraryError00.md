@@ -3,7 +3,7 @@ title: 'matplotlib | NotImplementedError: It is not currently possible to manual
 date: 2021-01-11 10:02:37
 tags: [Python, Error]
 categories: 
-  - [Python, 常用库, Error]
+  - [Python, 常用库, matplotlib]
 ---
 今天跑项目的时候报错：“NotImplementedError: It is not currently possible to manually set the aspect on 3D axes”
 
