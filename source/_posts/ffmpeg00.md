@@ -40,7 +40,7 @@ WTF！？
 
 在Windows系统中视频滤波器之后跟的参数的等号后面不能有盘符，也就是说只能用相对路径，更改了以后用命令行试了一下，就通了。
 
-<img src="/images/ffmpeg0/img0.png" width="60%">
+<img src="/images/ffmpeg00/img0.png" width="60%">
 
 搭嘎扣头哇路！
 

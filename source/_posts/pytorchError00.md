@@ -19,7 +19,7 @@ categories:
 
 看到的是如下的截图：
 
-<img src="/images/pytorchError0/img1.png">
+<img src="/images/pytorchError00/img1.png">
 
 但是没有解决问题，毕竟本地的版本是匹配的。
 
@@ -35,7 +35,7 @@ categories:
 
 再回到[torchvision](https://github.com/pytorch/vision)的网站，给出的版本对应信息如下：
 
-<img src="/images/pytorchError0/img2.png">
+<img src="/images/pytorchError00/img2.png">
 
 果然1.5版本有个1.5.1，把torch和vision都换成相应版本，问题解决。
 

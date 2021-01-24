@@ -77,6 +77,10 @@ alert('Hello World!');
 |:-----|:-----:|-----:|
 | 示例 | 示例 | 示例 |
 
+### 删除线
+
+~~我是删除线~~
+
 ### 超链接
 
 [官方文档](https://hexo.io/docs/writing.html)

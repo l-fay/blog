@@ -109,7 +109,7 @@ vim pip
 /data/aaa/.conda/envs/py3.7/bin/python
 ```
 下面是一个例子。
-<img src="/images/anaconda1/img0.png" width="60%">
+<img src="/images/anaconda01/img0.png" width="60%">
 
 ——————————————————————————————————————————
 
