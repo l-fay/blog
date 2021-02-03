@@ -81,6 +81,10 @@ alert('Hello World!');
 
 ~~我是删除线~~
 
+### 加粗
+
+**加粗**
+
 ### 超链接
 
 [官方文档](https://hexo.io/docs/writing.html)
