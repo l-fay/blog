@@ -54,3 +54,13 @@ copy：复制输入流的编码
 ```
 -max_muxing_queue_size 1024
 ```
+
+# 删除Chapter信息
+
+```
+-map_metadata -1
+
+-map_chapters -1
+```
+
+相关实验：{% post_link ffmpeg03 'ffmpeg | 删除视频中的元数据' %}
