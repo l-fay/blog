@@ -25,7 +25,7 @@ docker run -it name/images:version
 
 ```
 docker ps -a
-# 查看正在运行的容器
+# 查看所有的容器
 ```
 
 ```
