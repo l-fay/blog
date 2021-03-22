@@ -6,7 +6,7 @@ categories:
   - [Python, 常用库, paramiko]
 ---
 
-用paramiko库来使用sftp。
+用paramiko库来使用sftpcao操作集群文件。
 
 <!-- more -->
 
