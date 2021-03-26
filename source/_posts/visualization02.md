@@ -1,9 +1,10 @@
 ---
 title: Tkinter | 循环产生控件时函数的执行逻辑
 date: 2021-03-23 23:06:54
-tags: [Python]
+tags: [Python, 可视化]
 categories: 
-  - [Python]
+  - [Python, 可视化]
+  - [Python, 常用库, tkinter]
 ---
 我用控件循环产生控件时，发现这些控件绑定的函数跟预想的不太一样。
 
