@@ -1,5 +1,5 @@
 ---
-title: hexo04
+title: Hexo | 文章模板
 date: 2021-04-05 16:37:55
 tags: [Hexo]
 categories: 

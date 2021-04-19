@@ -1,5 +1,5 @@
 ---
-title: ‘git | 删除本地文件后 Git pull从远程仓库重新获取不到解决办法’
+title: git | 删除本地文件后 Git pull从远程仓库重新获取不到解决办法
 date: 2021-04-05 16:35:19
 tags: [Git]
 categories: 
