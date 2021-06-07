@@ -1,7 +1,7 @@
 ---
-title: ffmpeg | 删除视频中的元数据
+title: ffmpeg | 删除视频中的章节数据
 date: 2021-02-05 23:03:29
-tags: [ffmpeg, Python]
+tags: [ffmpeg]
 categories: 
   - [ffmpeg]
 ---
