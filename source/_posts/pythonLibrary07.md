@@ -1,11 +1,12 @@
 ---
 title: Python | bypy库在Linux上操作百度云
 date: 2021-02-03 21:31:02
-tags: [Python, Linux]
+tags: [Python, Linux, 命令行工具]
 categories: 
   - [Python, 常用库, bypy]
   - [Linux]
   - [百度云]
+  - [命令行工具]
 ---
 
 想用集群下载一些我自己百度云上的文件。
