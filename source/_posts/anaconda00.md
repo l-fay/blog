@@ -51,4 +51,4 @@ trusted-host=pypi.tuna.tsinghua.edu.cn
 trusted-host=pypi.mirrors.ustc.edu.cn
 ```
 
-这样会报错：option 'extra-index-url' in section 'global' already exists.
+这样会报错：`option 'extra-index-url' in section 'global' already exists.`
